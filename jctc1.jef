@@ -1,6 +1,6 @@
 //Java causality test case 1
 {
-  PAR_LIST{
+  PAR_LIST
     {
       r1 = x
       if(r1 >= 0){
@@ -12,5 +12,4 @@
       r2 = y
       x = r2
     }
-  }
 }
