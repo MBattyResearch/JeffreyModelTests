@@ -1,0 +1,16 @@
+//Java causality test case 2
+{
+  PAR_LIST
+    {
+      r1 = x
+      r2 = x
+      if(r1 == r2){
+        y = 1
+      } else{}
+    }
+
+    {
+      r3 = y
+      x = r3
+    }
+}
