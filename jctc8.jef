@@ -3,7 +3,7 @@
   PAR_LIST
     {
       r1 = x
-      r2 = 1 + r1*r1 - r1
+      r2 = 1 + ((r1*r1) - r1)
       y = r2
     }
 
