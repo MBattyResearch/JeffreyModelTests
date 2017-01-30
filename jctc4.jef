@@ -12,4 +12,4 @@
     }
 }
 
-//Forbidden: r1 == r2 == 1
+//Forbidden: (r1 == r2 == 1;)

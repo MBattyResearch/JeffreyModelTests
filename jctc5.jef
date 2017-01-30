@@ -21,4 +21,4 @@
     }
 }
 
-//Forbidden: r1 == r2 == 1; r3 == 0
+//Forbidden: (r1 == r2 == 1; r3 == 0;)
