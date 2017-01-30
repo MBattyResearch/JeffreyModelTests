@@ -10,7 +10,9 @@ TESTS = ./jctc1.als \
 	./jctc8.als \
 	./jctc9.als \
 	./jctc10.als \
-	./jctc11.als
+	./jctc11.als \
+	./jctc12.als \
+	./jctc13.als \
 
 %.als : %.jef
 	$(EVC) $< $@
